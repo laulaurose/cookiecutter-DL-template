@@ -1,0 +1,3 @@
+project: {{ cookiecutter.project_name }}
+data: {{cookiecutter.date}}
+# ADD HERE MORE VALUES
